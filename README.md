@@ -1,2 +1,3 @@
 # bankingManagementSystem
-This is not fully functional may be till tommorow it will be all functional
+every thing is fully functional just exception is not handled thoroughly 
+value errors are the ones which are left
